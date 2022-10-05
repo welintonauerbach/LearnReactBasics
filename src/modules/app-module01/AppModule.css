@@ -1,0 +1,12 @@
+txt-red {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+      color: rgb(160, 17, 17);
+      background-color: grey;
+  }
+
+  txt-green {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+      color: green;
+  }
